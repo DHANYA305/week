@@ -1,0 +1,2 @@
+Hello from info.txt!
+This proves Jenkins can fetch and print text files during CI/CD.
